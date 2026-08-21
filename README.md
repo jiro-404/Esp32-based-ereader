@@ -105,3 +105,5 @@ This build powers the board by connecting the LiPo battery directly to the 3V3 p
 - **Idle timeout before sleep:** `IDLE_TIMEOUT_MS`
 - **Font/line spacing:** `lineHeightPx`, and the `FreeSans9pt7b` font used for body text
 - **Deep sleep screensaver image:** regenerate `samurai_bitmap.h` with a different image using the same black/red bitmap conversion process (any image works, ideally already high-contrast with red accents)
+
+Suggest me if you have any better idea.
